@@ -23,6 +23,7 @@ The initial design was developed with guidance from a networking tutorial. I con
 - Corrected an err-disabled trunk caused by inappropriate PortFast and BPDU Guard settings.
 - Tested connectivity between internal networks, the DMZ, firewall zones, ISP infrastructure, and simulated external users.
 - Implemented and tested DMZ firewall policies controlling access to authorized resources.
+- OSPF router IDs are labeled on each router for easier topology identification and troubleshooting, such as 1.1.1.1 and 2.2.2.2.
 
 # Planned Improvements
 Complete configuration of centralized TACACS+ authentication with local fallback 
