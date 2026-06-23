@@ -1,5 +1,5 @@
 # High-Availability Enterprise Network
-Built and configured a guided enterprise campus network lab, then troubleshot, validated, and expanded the environment with working DHCP, VoIP, LACP, HSRP, VLAN segmentation, firewall connectivity, and redundant network paths.
+Built and configured a guided enterprise campus network lab, I troubleshot, validated, and expanded the environment with working DHCP, VoIP, LACP, HSRP, VLAN segmentation, firewall connectivity, and redundant network paths.
 
 # Project Note
 The initial design was developed with guidance from a networking tutorial. I configured, tested, troubleshot, and validated the environment to strengthen my network design/troubleshooting skills. 
