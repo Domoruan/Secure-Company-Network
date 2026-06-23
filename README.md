@@ -26,5 +26,5 @@ The initial design was developed with guidance from a networking tutorial. I con
 - OSPF router IDs are labeled on each router for easier topology identification and troubleshooting, such as 1.1.1.1 and 2.2.2.2.
 
 # Planned Improvements
-Complete configuration of centralized TACACS+ authentication with local fallback 
-Pending name resolution verification. 
+- Complete configuration of centralized TACACS+ authentication with local fallback 
+- Pending name resolution verification. 
